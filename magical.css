@@ -371,3 +371,13 @@ li.dropdown {
   background-color: red;
   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
 }
+
+h2 {
+  text-shadow: 2px 2px #FF0000;
+}
+h1 {
+  text-shadow: 2px 2px #FF0000;
+}
+a:hover {
+  background-color: aqua;
+}
